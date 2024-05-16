@@ -1,0 +1,13 @@
+{
+
+    "tree": "oak",
+    "activity": "Static",
+    "oak": {
+        "size": 250,
+        "barkDensity": 477853198,
+        "view": "Oak",
+        "color": "brown",
+        "leafes": "maple",
+        "grow": "all"
+    }
+}
