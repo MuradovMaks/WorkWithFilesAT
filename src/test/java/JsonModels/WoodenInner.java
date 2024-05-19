@@ -1,3 +1,5 @@
+package JsonModels;
+
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 
 public class WoodenInner {
